@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/bhouse/rails_sample_app.png)](https://travis-ci.org/bhouse/rails_sample_app)
+[![Code Climate](https://codeclimate.com/github/bhouse/rails_sample_app.png)](https://codeclimate.com/github/bhouse/rails_sample_app)
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
