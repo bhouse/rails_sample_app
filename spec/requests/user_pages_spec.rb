@@ -32,8 +32,8 @@ describe "UserPages" do
         before { click_button submit }
 
         it { should have_selector('title', text: 'Sign up') }
-        it { should have_content('The Form contains 7 errors') }
-        it { should have_content('Password digest can\'t be blank') }
+        it { should have_content('The Form contains 6 errors') }
+        it { should have_no_content('Password digest can\'t be blank') }
         it { should have_content('Name can\'t be blank') }
         it { should have_content('Email can\'t be blank') }
         it { should have_content('Email is invalid') }
