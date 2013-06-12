@@ -16,3 +16,4 @@
 
 # Ignore all bundler_stubs
 bundler_stubs/
+/Gemfile.lock
